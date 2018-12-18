@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544547062 source:c:\users\gabriela\desktop\new folder (13)\autokey\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
